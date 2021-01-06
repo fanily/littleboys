@@ -1,0 +1,33 @@
+html {
+	width: 1080px;
+	height: 1920px;
+}
+
+body {
+	background-color: #FFFEF2;
+}
+
+#container {
+	position: relative;
+}
+
+#boy {
+    margin-top: 285px;
+    margin-left: 41px;
+ }
+
+#ar-text {
+    margin-left: 41px;
+}
+
+.android {
+ 	position: absolute;
+ 	left: 250px;
+ 	top: 430px;
+}
+
+.ios {
+ 	top: 430px;
+ 	right: 250px;
+    position: absolute;
+}
